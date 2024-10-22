@@ -35,13 +35,7 @@ Este repositorio es solo para fines educativos. El contenido puede ser eliminado
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
-4. Empuja tus cambios a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
+Las contribuciones NO son bienvenidas. Contenido solo de uso visual y educativo. Citar y consultar correctamente los autores. 
 
 
 ## Contacto
